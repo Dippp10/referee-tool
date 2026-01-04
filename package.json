@@ -1,0 +1,9 @@
+{
+  "name": "referee-tool",
+  "version": "1.0.0",
+  "description": "A decision-support tool that compares tech options and explains trade-offs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
