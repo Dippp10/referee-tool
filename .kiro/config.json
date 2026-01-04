@@ -1,0 +1,9 @@
+{
+  "project_name": "Tech Referee",
+  "purpose": "Compare technology options and explain trade-offs instead of giving single answers",
+  "comparisons_supported": [
+    "Frontend frameworks",
+    "Backend platforms",
+    "Cloud services"
+  ]
+}
